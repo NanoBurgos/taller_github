@@ -19,4 +19,6 @@ para configurar la identidad por defecto de tu cuenta.
 Omite --global para configurar tu identidad solo en este repositorio.
 '''
 
-print("Primera carga realizada")
+print("Primera carga realizada desde Ubuntu")
+
+print("Primera carga realizada desde windows")
